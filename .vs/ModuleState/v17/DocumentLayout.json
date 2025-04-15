@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Project\\ModuleState\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\viewmodel\\modulestatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\viewmodel\\modulestatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\view\\modulestatev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\view\\modulestatev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\viewmodel\\itemcontrolvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\viewmodel\\itemcontrolvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\view\\itemcontrolv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\view\\itemcontrolv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\helpers\\notifypropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\helpers\\notifypropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\view\\itemcontrolv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\view\\itemcontrolv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|d:\\work\\project\\modulestate\\modulestate\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81188CA1-F477-4BDC-93A5-6ED39C549046}|ModuleState\\ModuleState.csproj|solutionrelative:modulestate\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 230,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 490,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ModuleState\\Helpers\\RelayCommand.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "ModuleState\\Helpers\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FodyWeavers.xml",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\FodyWeavers.xml",
+              "RelativeDocumentMoniker": "ModuleState\\FodyWeavers.xml",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\FodyWeavers.xml",
+              "RelativeToolTip": "ModuleState\\FodyWeavers.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-27T07:52:27.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "ModuleState\\Model\\Item.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\Model\\Item.cs",
+              "RelativeToolTip": "ModuleState\\Model\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemControlVM.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\ViewModel\\ItemControlVM.cs",
+              "RelativeDocumentMoniker": "ModuleState\\ViewModel\\ItemControlVM.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\ViewModel\\ItemControlVM.cs",
+              "RelativeToolTip": "ModuleState\\ViewModel\\ItemControlVM.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemControlV.xaml",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\View\\ItemControlV.xaml",
+              "RelativeDocumentMoniker": "ModuleState\\View\\ItemControlV.xaml",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\View\\ItemControlV.xaml",
+              "RelativeToolTip": "ModuleState\\View\\ItemControlV.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T07:52:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\App.xaml",
+              "RelativeDocumentMoniker": "ModuleState\\App.xaml",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\App.xaml",
+              "RelativeToolTip": "ModuleState\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T07:52:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ModuleState\\App.xaml.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\App.xaml.cs",
+              "RelativeToolTip": "ModuleState\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModuleStateVM.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\ViewModel\\ModuleStateVM.cs",
+              "RelativeDocumentMoniker": "ModuleState\\ViewModel\\ModuleStateVM.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\ViewModel\\ModuleStateVM.cs",
+              "RelativeToolTip": "ModuleState\\ViewModel\\ModuleStateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleStateV.xaml",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\View\\ModuleStateV.xaml",
+              "RelativeDocumentMoniker": "ModuleState\\View\\ModuleStateV.xaml",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\View\\ModuleStateV.xaml",
+              "RelativeToolTip": "ModuleState\\View\\ModuleStateV.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T07:52:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotifyPropertyChanged.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\Helpers\\NotifyPropertyChanged.cs",
+              "RelativeDocumentMoniker": "ModuleState\\Helpers\\NotifyPropertyChanged.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\Helpers\\NotifyPropertyChanged.cs",
+              "RelativeToolTip": "ModuleState\\Helpers\\NotifyPropertyChanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemControlV.xaml.cs",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\View\\ItemControlV.xaml.cs",
+              "RelativeDocumentMoniker": "ModuleState\\View\\ItemControlV.xaml.cs",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\View\\ItemControlV.xaml.cs",
+              "RelativeToolTip": "ModuleState\\View\\ItemControlV.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:52:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Work\\Project\\ModuleState\\ModuleState\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ModuleState\\MainWindow.xaml",
+              "ToolTip": "D:\\Work\\Project\\ModuleState\\ModuleState\\MainWindow.xaml",
+              "RelativeToolTip": "ModuleState\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T07:52:27.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

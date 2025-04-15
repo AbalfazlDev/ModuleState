@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYTHEQMiZ4M9WETqi07eJIYV3I+eqbvetK5QdxghSmJfc0R58aY2xCtnRA/ij8LtLrjPqgb8XNsiGM8JOmHf/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\program\\Project\\ModuleState\\ModuleState\\ModuleState.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abalf\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\abalf\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\abalf\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\abalf\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\abalf\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
